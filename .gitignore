@@ -1,0 +1,5 @@
+*.bak
+*.bak-*
+.DS_Store
+JetBrains*.idekeybindings
+JetBrains*.md
